@@ -6,3 +6,5 @@ git add . - Adicionar todos os arquivos dentro do repositório.
 git commit - m - Escrever uma mensagem descrevendo o que foi alterado na ultima versão.
 git remote add origin - Estabelecer relação com o repositório no Git Hub.
 git push origin master - Manda as atualizações feitas no Git Bash.
+git clone - pegar uma determinada versão colocada no repositório.
+git pull - atualizar as mudanças feitas no ultima versão para a versão atual
