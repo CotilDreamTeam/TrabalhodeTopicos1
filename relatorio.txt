@@ -1,0 +1,8 @@
+git config --global user.name - Colocar o nome do Usuario.
+git config --global user.email - Colocar o email do Usuário.
+git init - Usado para iniciar o projeto.
+git status - Usado para ver o estado do repositório.
+git add . - Adicionar todos os arquivos dentro do repositório.
+git commit - m - Escrever uma mensagem descrevendo o que foi alterado na ultima versão.
+git remote add origin - Estabelecer relação com o repositório no Git Hub.
+git push origin master - Manda as atualizações feitas no Git Bash.

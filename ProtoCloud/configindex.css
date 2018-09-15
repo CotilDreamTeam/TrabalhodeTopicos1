@@ -1,0 +1,35 @@
+	#layout{
+			background-color:white;
+			border-width:8px;
+			border-style:solid;
+			background-image:linear-gradient(to right,blue,green,red);
+		}
+		#item{
+			border-width:5px;
+			border-style:solid;
+			margin-right:10px;
+			margin-top:5px;
+
+			padding-right:10px;
+			padding-left:10px;
+			overflow:auto;
+			background-color:white;
+
+		}
+		
+		#titleindex{
+			 text-align:center;
+			 font-size:100%;
+			 font-weight:bolder;
+			 animation:
+		}
+		#divindex{
+			background-color:white;
+			margin-right:10px;
+			margin-top: 10px;
+			font-size:40px;
+			font-weight:bolder;
+			
+			border-width:3px;
+			border-style:solid;
+		}

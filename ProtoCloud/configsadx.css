@@ -1,0 +1,41 @@
+div.sonic{
+			background-color:blue;
+			border-bottom-width:15px;
+			border-bottom-color:red;
+			border-bottom-style:solid; 
+		}
+		
+		div.tails{
+			background-color:orange;
+			border-bottom-width:15px;
+			border-bottom-color:white;
+			border-bottom-style:solid;
+		}
+		
+		div.knuckles{
+			background-color:red;
+			border-bottom-width:15px;
+			border-bottom-color:green;
+			border-bottom-style:solid;
+		}
+
+		div.amy{
+			background-color:pink;
+			border-bottom-width:15px;
+			border-bottom-color:red;
+			border-bottom-style:solid;
+		}
+
+		div.big{
+			background-color:#9400dc;
+			border-bottom-width:15px;
+			border-bottom-color:#4B0082;
+			border-bottom-style:solid;
+		}
+
+		div.e102{
+			background-color:#696969;
+			border-bottom-width:15px;
+			border-bottom-color:red;
+			border-bottom-style:solid;
+		}
