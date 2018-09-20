@@ -8,3 +8,4 @@ git remote add origin - Estabelecer relação com o repositório no Git Hub.
 git push origin master - Manda as atualizações feitas no Git Bash.
 git clone - pegar uma determinada versão colocada no repositório.
 git pull - atualizar as mudanças feitas no ultima versão para a versão atual
+git revert --no-edit: Reverte alterações feitas no último commit e retornar para um configuração anterior.
